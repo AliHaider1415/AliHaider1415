@@ -1,16 +1,39 @@
-## Hi there 👋
+# Ali Haider
 
-<!--
-**AliHaider1415/AliHaider1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** | **Django** | **React** | **Learning AWS and Deployment**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Ali Haider, a passionate full stack developer with expertise in Django and React. Currently, I'm expanding my skill set to include AWS and deployment technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+### Backend
+- Django
+- Django REST Framework
+- PostgreSQL
+- Token Authentication
+
+### Frontend
+- React
+- Redux
+- HTML, CSS, JavaScript
+- Material-UI
+
+### DevOps (Learning)
+- AWS
+- Docker
+- Continuous Integration/Continuous Deployment (CI/CD)
+
+
+## 🎯 Goals
+- Master AWS services and deployment.
+- Contribute to open source projects.
+- Continuously improve my full stack development skills.
+
+## 📫 Get in Touch
+- **Email:** [your-email@example.com](alihaiderur1415@example.com)
+- **LinkedIn:** [your-linkedin-profile](linkedin.com/in/ali-haider-a3a4151b3/)
+
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AliHaider1415)](https://git.io/streak-stats)
